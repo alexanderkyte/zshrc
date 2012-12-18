@@ -490,6 +490,7 @@ alias trayer='trayer --edge bottom --height 1'
 alias chromium='chromium --enable-easy-off-store-extension-install --memory-model=low --purge-memory-button --disk-cache-dir=/tmp/cache '
 #alias irssi='screen irssi'
 alias vi=vim
+alias nethack-csh="TERM=xterm telnet nethack.csh.rit.edu"
 export EDITOR=vim
 export MOZ_DISABLE_PANGO=1
 export JAVA_HOME=/opt/java
